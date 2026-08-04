@@ -1,8 +1,3 @@
-#  n = 7789 
-# now extract the digits or count it 
-
-
-
 class Solution :
     def extract_digit(self , n):
         digits = []
@@ -13,6 +8,3 @@ class Solution :
         return digits
 
 
-solution = Solution()
-answer = solution.extract_digit(7789)
-print(answer)

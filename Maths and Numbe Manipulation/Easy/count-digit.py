@@ -1,4 +1,3 @@
-
 class Solution:
     def countDigit(self, n):
         digits = []
@@ -8,8 +7,3 @@ class Solution:
         return len(digits)
 
 
-# if you are solving on leet code u dont need the code written below !!!!!
-
-solution = Solution()
-answer = solution.countDigit(7789)
-print(answer)
