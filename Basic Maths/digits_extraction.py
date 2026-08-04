@@ -9,8 +9,7 @@ class Solution :
         while n > 0:
             digits.append(n % 10)
             n = n // 10
-        if n == 0:
-            digits.reverse()
+        digits.reverse()
         return digits
 
 
