@@ -1,6 +1,6 @@
-# 🚀 DSA Manual Solutions
+# 🚀 DSA Solutions
 
-Welcome to my **DSA Manual Solutions** repository.
+Welcome to my **DSA Solutions** repository.
 
 This repository is my commitment to solving **Data Structures & Algorithms** problems consistently. Every solution is written manually to strengthen problem-solving skills and prepare for top software engineering interviews.
 
@@ -47,6 +47,10 @@ https://x.com/devvxsagar
 ### 📷 Instagram
 
 https://www.instagram.com/de.vvx
+
+🧩 LeetCode
+
+https://leetcode.com/u/devvx-sagar/
 
 ## ⭐ Support
 
